@@ -1,2 +1,2 @@
-# ManageBacAPI
-ManageBac API
+# ManageBac Stuff
+All stuff related to ManageBac
